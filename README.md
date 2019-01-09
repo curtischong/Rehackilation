@@ -6,9 +6,6 @@
 </p>
 
 
-
-___
-
 ##### A set of tools to help patients redevelop hand movements.
 #
 #
