@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://chongcurtis.com/photos/header_rehackilation.jpg" alt="A photo of one of the rehibilitation activities."/>
+  <img src="https://chongcurtis.com/photos/inner_rehackilation.jpg" alt="A photo of one of the rehibilitation activities."/>
 </p>
 
 
